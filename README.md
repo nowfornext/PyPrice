@@ -19,5 +19,6 @@ cron:
   
 url: https://example.com/product-page/path
 priceSelector: '#PyQuery / jQuery Selector to get the price
+pbToken: 'optional/youPushBulletAPIToken'
 ```
 
