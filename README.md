@@ -18,7 +18,7 @@ cron:
   second: 'Value following cron syntax'
   
 url: https://example.com/product-page/path
-priceSelector: '#PyQuery / jQuery Selector to get the price
+priceSelector: '#PyQuery / jQuery Selector to get the price'
 pbToken: 'optional/youPushBulletAPIToken'
 ```
 
